@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-using Gramma.Vectors;
-using Gramma.Kernels;
-using Gramma.SVM;
-using Gramma.Optimization;
+using Grammophone.Vectors;
+using Grammophone.Kernels;
+using Grammophone.SVM;
+using Grammophone.Optimization;
 
 namespace SvmTest.Binary
 {
