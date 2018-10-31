@@ -1,7 +1,7 @@
 # Grammophone.SVM.Test
 This is a unit test for [Grammophone.SVM](https://github.com/grammophone/Grammophone.SVM).
 
-This projects requires the following projects being in sibling directories:
+This project requires the following projects being in sibling directories:
 * [Grammophone.Caching](https://github.com/grammophone/Grammophone.Caching)
 * [Grammophone.Indexing](https://github.com/grammophone/Grammophone.Indexing)
 * [Grammophone.Kernels](https://github.com/grammophone/Grammophone.Kernels)
